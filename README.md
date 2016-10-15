@@ -1,2 +1,4 @@
 # small-world
-Old project to find unexpected mutual friend connections on Facebook.
+Old project (winter 2015) to find unexpected mutual friend connections on Facebook. Just got around to uploading it.
+
+Note for employers: I've gotten better at coding since winter 2015.
